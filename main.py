@@ -1,4 +1,5 @@
 from datetime import datetime
+from pyinputplus import pyip
 
 f1 = open("wydatki.txt", "a+")
 f2 = open("limit.txt", "a+")
@@ -13,7 +14,9 @@ def add():
 
 
 def set_limit():
-    print()
+    lim = input("Ustaw nowy limit: ")
+    limit = lim + "\n"
+    f2.write(limit)
 
 
 def check_limit():
