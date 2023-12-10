@@ -20,6 +20,3 @@ def set_limit():
 
 def check_limit():
     print()
-
-
-set_limit()
