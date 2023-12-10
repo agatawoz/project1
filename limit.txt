@@ -1,2 +1,4 @@
 Historia limitów:
 
+150
+250

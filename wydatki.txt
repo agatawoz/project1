@@ -1,2 +1,3 @@
 kwota: 1 zl , data: 1, opis: 1 
 kwota: 100 zl , data: 15.10.2022, opis: buty 
+kwota: 10 zl , data: 11, opis: 111 
